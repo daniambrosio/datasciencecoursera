@@ -7,13 +7,15 @@ This is the Coursera [Data Science Specialization](https://www.coursera.org/spec
 ## Projects
 Two Projects were done in this course, both with separate github repositories and reports submitted to RPubs.
 
-1. Reproducible Research: Peer Assessment 1
-1.1. [Github Repo](https://github.com/daniambrosio/RepData_PeerAssessment1)
-1.2. [RPubs Document](http://rpubs.com/daniambrosio/coursera-datascience-repdata-project1)
+Reproducible Research: Peer Assessment 1
 
-2. Severe Weather Events Analysis (health and economic approaches) - 1950 to 2011
-1.1. [Github Repo](https://github.com/daniambrosio/RepData_PeerAssessment2)
-1.2. [RPubs Document](http://rpubs.com/daniambrosio/RepData_PeerAssessment2)
+1. [Github Repo](https://github.com/daniambrosio/RepData_PeerAssessment1)
+2. [RPubs Document](http://rpubs.com/daniambrosio/coursera-datascience-repdata-project1)
+
+Severe Weather Events Analysis (health and economic approaches) - 1950 to 2011
+
+1. [Github Repo](https://github.com/daniambrosio/RepData_PeerAssessment2)
+2. [RPubs Document](http://rpubs.com/daniambrosio/RepData_PeerAssessment2)
 
 
 # Course 6 - Statistical Inference
