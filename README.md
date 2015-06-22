@@ -2,6 +2,16 @@
 This is the Coursera [Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1) repository. Some of my homeworks, quizes, projects and useful information are being colected here.
 
 
+# Course 4 - Exploratory DAta Analysis
+
+## Projects
+
+Two projects were done in this course, however on of them is on a separate repository.
+The other is in this same repo.
+
+1. [Github Cloned Repo](https://github.com/daniambrosio/ExData_Plotting1)
+2. [Project 2 - in this repo](https://github.com/daniambrosio/datasciencecoursera/tree/master/Course%204%20-%20Exploratory%20Data%20Analysis/project%202)
+
 # Course 5 - Reproducible Research
 
 ## Projects
